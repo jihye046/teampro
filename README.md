@@ -61,7 +61,7 @@
 - 8/25 : 발표  
 
 ## DB 설계도
-<img src=".src/main/webapp/resources/images/사용자후기DB.png" alt="user" height="150"><br>
+<img src="./src/main/webapp/resources/images/사용자후기DB.png" alt="user" height="150"><br>
 
 
 ## 시연 영상
