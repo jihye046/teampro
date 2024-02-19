@@ -76,9 +76,8 @@
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-4main.png" alt="1-4main" height="400"><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-5main.png" alt="1-5main" height="400"><br><br>
   
-**2. 로그인 페이지**
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/2-1login.png" alt="2-1login" height="400">
-  <br>
+> **로그인 페이지**<br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/2-1login.png" alt="2-1login" height="400"><br><br>
   
 **3. 비밀번호 찾기 페이지**
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/3-1password.png" alt="3-1password" height="400">
