@@ -10,7 +10,7 @@
 - 사이트 설명
 - 테스트 결과  
   
-## 개발환경
+# 개발환경
 > Back-end
 > <div>
 >    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -51,35 +51,35 @@
 >    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 > </div>
 
-## 역할  
+# 역할  
   
-## 개발 일정표 (총 소요기간 19일)
+# 개발 일정표 (총 소요기간 19일)
 - 8/7 ~ 8/10  프로젝트 설계, 자료 조사 (4일)
 - 8/11 ~ 8/23  기능 구현 (13일)
 - 8/21 ~ 8/22  테스트, 리팩토링 (2일)
 - 8/23 ~ 8/24  결과물 서류 작업, 영상 촬영 (2일)
 - 8/25  발표  
 
-## DB 설계도  
-1. 전체DB 설계도  
+# DB 설계도  
+###1. 전체DB 설계도  
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/AllDB.png" alt="AllDB" width="400">  
-2. 카테고리DB 설계도  
+###2. 카테고리DB 설계도  
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/CategoryDB.png" alt="CategoryDB" height="400">  
-3. 사용자후기DB 설계도  
+###3. 사용자후기DB 설계도  
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/UserReviewDB.png" alt="UserReviewDB" height="400">
 
-## 사이트 설명
-1. 메인 화면
+# 사이트 설명
+###1. 메인 화면
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-1main.png" alt="1-1main" height="400">
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-2main.png" alt="1-2main" height="400">
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-3main.png" alt="1-3main" height="400">
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-4main.png" alt="1-4main" height="400">
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-5main.png" alt="1-5main" height="400">
-2. 로그인 페이지
+###2. 로그인 페이지
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/2-1login.png" alt="2-1login" height="400">
-3. 비밀번호 찾기 페이지
+###3. 비밀번호 찾기 페이지
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/3-1password.png" alt="3-1password" height="400">
-4. 회원가입 페이지
+###4. 회원가입 페이지
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-1join.png" alt="4-1join" height="400">
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-2join.png" alt="4-2join" height="400">
 5. 마이페이지
