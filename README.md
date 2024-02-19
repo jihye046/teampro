@@ -62,26 +62,52 @@
 
 ## DB 설계도  
 1. 전체DB 설계도  
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/AllDB.png" alt="AllDB" width="400">  
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/AllDB.png" alt="AllDB" width="400">  
 2. 카테고리DB 설계도  
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/CategoryDB.png" alt="CategoryDB" height="400">  
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/CategoryDB.png" alt="CategoryDB" height="400">  
 3. 사용자후기DB 설계도  
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/UserReviewDB.png" alt="UserReviewDB" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/UserReviewDB.png" alt="UserReviewDB" height="400">
 
 ## 사이트 설명
 1. 메인 화면
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-1main.png" alt="1-1main" height="400">
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-2main.png" alt="1-2main" height="400">
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-3main.png" alt="1-3main" height="400">
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-4main.png" alt="1-4main" height="400">
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-5main.png" alt="1-5main" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-1main.png" alt="1-1main" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-2main.png" alt="1-2main" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-3main.png" alt="1-3main" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-4main.png" alt="1-4main" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-5main.png" alt="1-5main" height="400">
 2. 로그인 페이지
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/2-1login.png" alt="2-1login" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/2-1login.png" alt="2-1login" height="400">
 3. 비밀번호 찾기 페이지
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/3-1password.png" alt="3-1password" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/3-1password.png" alt="3-1password" height="400">
 4. 회원가입 페이지
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-1join.png" alt="4-1join" height="400">
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-2join.png" alt="4-2join" height="400">  
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-1join.png" alt="4-1join" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-2join.png" alt="4-2join" height="400">
+5. 마이페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/5-1myPage.png" alt="5-1myPage" height="400">  
+6. 사용자가 작성한 게시글 목록 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/6-1myBoardList.png" alt="6-1myBoardList"       height="400">  
+7. 사용자가 작성한 게시글 댓글 목록 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/7-1myCommentList.png" alt="7-1myCommentList" height="400">  
+8. 사용자 정보 수정
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/8-1updateInfo.png" alt="8-1updateInfo" height="400">  
+9. 이메일 본인 인증
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/9-1emailVerification.png" alt="9-1emailVerification" height="400">
+10. 맛집 전체 목록 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/10-1restaurantList.png" alt="10-1restaurantList" height="400">  
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/10-2restaurantList.png" alt="10-2restaurantList" height="400">  
+11. 맛집 상세보기 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/11-1restaurantDetail.png" alt="11-1restaurantDetail" height="400">  
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/11-2restaurantDetail.png" alt="11-2restaurantDetail" height="400">
+12. 숙소 전체 목록 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/12-1hotelList.png" alt="12-1hotelList" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/12-2hotelList.png" alt="12-2hotelList" height="400">
+13. 숙소 상세보기 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/13-1hotelDetail.png" alt="13-1hotelDetail" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/13-2hotelDetail.png" alt="13-2hotelDetail" height="400">  
+    
+
+
+
 
 ## 시연 영상
 - https://youtu.be/FZR0IU5r7MY  
