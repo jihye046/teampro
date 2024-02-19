@@ -62,11 +62,26 @@
 
 ## DB 설계도  
 1. 전체DB 설계도  
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/AllDB.png" alt="user" width="400">  
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/AllDB.png" alt="AllDB" width="400">  
 2. 카테고리DB 설계도  
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/CategoryDB.png" alt="user" height="250">  
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/CategoryDB.png" alt="CategoryDB" height="400">  
 3. 사용자후기DB 설계도  
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/UserReviewDB.png" alt="user" height="250">  
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/UserReviewDB.png" alt="UserReviewDB" height="400">
+
+## 사이트 설명
+1. 메인 화면
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-1main.png" alt="1-1main" height="400">
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-2main.png" alt="1-2main" height="400">
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-3main.png" alt="1-3main" height="400">
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-4main.png" alt="1-4main" height="400">
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-5main.png" alt="1-5main" height="400">
+2. 로그인 페이지
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/2-1login.png" alt="2-1login" height="400">
+3. 비밀번호 찾기 페이지
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/3-1password.png" alt="3-1password" height="400">
+4. 회원가입 페이지
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-1join.png" alt="4-1join" height="400">
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-2join.png" alt="4-2join" height="400">  
 
 ## 시연 영상
 - https://youtu.be/FZR0IU5r7MY  
