@@ -9,6 +9,7 @@
 [4. DB설계도](#db-설계도)<br>
 [5. 사이트 설명](#사이트-설명)<br>
 [6. 테스트 결과](#테스트-결과)<br>
+[7. 시연 영상](#시연-영상)<br><br>
   
 ## 개발환경
 > Back-end
@@ -50,15 +51,18 @@
 > <div>
 >    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 > </div>
+<br><br>
 
 ## 역할
-  
+<br><br>
+
 ## 개발 일정표 (총 소요기간 19일)
 - 8/7 ~ 8/10  프로젝트 설계, 자료 조사 (4일)
 - 8/11 ~ 8/23  기능 구현 (13일)
 - 8/21 ~ 8/22  테스트, 리팩토링 (2일)
 - 8/23 ~ 8/24  결과물 서류 작업, 영상 촬영 (2일)
 - 8/25  발표  
+<br><br>
 
 ## DB 설계도  
 - **전체DB 설계도**  
@@ -154,6 +158,7 @@
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-3point.png" alt="23-3point" height="400"><br><br>
 
 ## 테스트 결과
+<br><br>
 
 ## 시연 영상
 - https://youtu.be/FZR0IU5r7MY  
