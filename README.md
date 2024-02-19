@@ -40,7 +40,6 @@
 > <div>
 >    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 > </div>
-> <br>
 
 > Progress Sharing
 > <div>
