@@ -69,16 +69,22 @@
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/UserReviewDB.png" alt="UserReviewDB" height="400">
 
 ## 사이트 설명
-1. 메인 화면
+**1. 메인 화면**
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-1main.png" alt="1-1main" height="400">
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-2main.png" alt="1-2main" height="400">
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-3main.png" alt="1-3main" height="400">
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-4main.png" alt="1-4main" height="400">
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-5main.png" alt="1-5main" height="400">
-2. 로그인 페이지
+  <br>
+  
+**2. 로그인 페이지**
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/2-1login.png" alt="2-1login" height="400">
-3. 비밀번호 찾기 페이지
+  <br>
+  
+**3. 비밀번호 찾기 페이지**
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/3-1password.png" alt="3-1password" height="400">
+  <br>
+  
 4. 회원가입 페이지
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-1join.png" alt="4-1join" height="400">
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-2join.png" alt="4-2join" height="400">
