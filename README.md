@@ -51,12 +51,16 @@
 >    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 > </div>
 
-## 역할
-
-
-## 개발일정표
-
+## 역할  
+  
+## 개발 일정표 (총 소요기간 19일)
+- 8/7 ~ 8/10 : 프로젝트 설계, 자료 조사 (4일)
+- 8/11 ~ 8/23 : 기능 구현 (13일)
+- 8/21 ~ 8/22 : 테스트, 리팩토링 (2일)
+- 8/23 ~ 8/24 : 결과물 서류 작업, 영상 촬영 (2일)
+- 8/25 : 발표## 개발일정표  
 
 ## DB 설계도
+
 ## 시연 영상
 - https://youtu.be/FZR0IU5r7MY  
