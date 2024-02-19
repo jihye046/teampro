@@ -60,7 +60,7 @@
 - 8/23 ~ 8/24 : 결과물 서류 작업, 영상 촬영 (2일)
 - 8/25 : 발표  
 
-## DB 설계도
+## DB 설계도  
 1. 전체DB 설계도  
 <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/AllDB.png" alt="user" width="400">  
 2. 카테고리DB 설계도  
