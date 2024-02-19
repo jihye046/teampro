@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=66FFFF&height=100&section=header&text=KILOOK&fontSize=60)  
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=66FFFF&height=150&section=header&text=KILOOK&fontSize=80)  
 기획에서는 맛집과 유명한 음식, 다양한 상점과 볼거리 등을 소개하여 관광객들에게 현지 음식 문화와 도시의 생생한 면모를 전달하고자 합니다.  
 
 ### 시연 영상
