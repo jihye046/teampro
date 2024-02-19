@@ -61,7 +61,8 @@
 - 8/25 : 발표  
 
 ## DB 설계도
-<img src="https://github.com/jihye046/board1/blob/master/src/main/webapp/resources/images/AllDB.png" alt="user" height="150">
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/AllDB.png" alt="user" height="250">
+
 
 ## 시연 영상
 - https://youtu.be/FZR0IU5r7MY  
