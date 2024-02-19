@@ -1,9 +1,9 @@
-### KILOOK | 부산 여행 정보 웹사이트
+### KILOOK | 부산 여행 정보 웹사이트  
 
 
 ### 시연 영상
-https://youtu.be/FZR0IU5r7MY
-   
+https://youtu.be/FZR0IU5r7MY  
+
 ### 개발환경
 ---
 > Back-end
