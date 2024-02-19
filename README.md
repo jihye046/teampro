@@ -2,16 +2,13 @@
 기획에서는 맛집과 유명한 음식, 다양한 상점과 볼거리 등을 소개하여  
 관광객들에게 현지 음식 문화와 도시의 생생한 면모를 전달하고자 합니다.  
 
-### 목차
+## 목차
 - 개발환경
 - 역할
 - 개발일정표
 - DB설계도
 - 사이트 설명
 - 테스트 결과  
-  
-## 시연 영상
-https://youtu.be/FZR0IU5r7MY  
   
 ## 개발환경
 > Back-end
@@ -50,9 +47,9 @@ https://youtu.be/FZR0IU5r7MY
 <br>
 
 > Progress Sharing
-<div>
-    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</div>
+> <div>
+>    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+> </div>
 <br>
 
 > Work Document Management
@@ -61,5 +58,12 @@ https://youtu.be/FZR0IU5r7MY
 </div>
 <br>
 
-### aa
+## 역할
 
+
+## 개발일정표
+
+
+## DB 설계도
+## 시연 영상
+https://youtu.be/FZR0IU5r7MY  
