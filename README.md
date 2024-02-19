@@ -124,6 +124,7 @@
 > **명소 상세보기 페이지**<br><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/15-1attractionDetail.png" alt="15-1attractionDetail" height="400"><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/15-2attractionDetail.png" alt="15-2attractionDetail" height="400"><br><br>
+  
 > **전시 전체 목록 페이지**<br><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/16-1showList.png" alt="16-1showList" height="400"><br><br>
   
@@ -150,7 +151,7 @@
 > **사용자 포인트 교환 페이지**<br><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-1point.png" alt="23-1point" height="400"><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-2point.png" alt="23-2point" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-3point.png" alt="23-3point" height="400">  
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-3point.png" alt="23-3point" height="400"><br><br>
 
 ## 시연 영상
 - https://youtu.be/FZR0IU5r7MY  
