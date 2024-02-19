@@ -5,10 +5,10 @@
 ## 목차
 [1. 개발환경](#개발환경)<br>
 [2. 역할](#역할)<br>
-3. 개발일정표<br>
-4. DB설계도<br>
-5. 사이트 설명<br>
-6. 테스트 결과<br>
+[3. 개발일정표](#개발-일정표)<br>
+[4. DB설계도](#db-설계도)<br>
+[5. 사이트 설명](#사이트-설명)<br>
+[6. 테스트 결과](#테스트-결과)<br>
   
 ## 개발환경
 > Back-end
@@ -152,6 +152,8 @@
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-1point.png" alt="23-1point" height="400"><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-2point.png" alt="23-2point" height="400"><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-3point.png" alt="23-3point" height="400"><br><br>
+
+## 테스트 결과
 
 ## 시연 영상
 - https://youtu.be/FZR0IU5r7MY  
