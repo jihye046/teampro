@@ -1,6 +1,7 @@
 <img src="./src/main/webapp/resources/images/logo/logo5.png" alt="logo" height="150"><br>
 기획에서는 맛집과 유명한 음식, 다양한 상점과 볼거리 등을 소개하여  
 관광객들에게 현지 음식 문화와 도시의 생생한 면모를 전달하고자 합니다.  
+<br>
 
 ## 목차
 [1. 개발환경](#개발환경)<br>
@@ -9,7 +10,8 @@
 [4. DB설계도](#db-설계도)<br>
 [5. 사이트 설명](#사이트-설명)<br>
 [6. 테스트 결과](#테스트-결과)<br>
-[7. 시연 영상](#시연-영상)<br><br>
+[7. 시연 영상](#시연-영상)<br>
+<br>
   
 ## 개발환경
 > Back-end
@@ -54,7 +56,8 @@
 <br>
 
 ## 역할
-<br><br>
+// 작성중
+<br>
 
 ## 개발 일정표 (총 소요기간 19일)
 - 8/7 ~ 8/10  프로젝트 설계, 자료 조사 (4일)
@@ -70,7 +73,8 @@
 - **카테고리DB 설계도**  
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/CategoryDB.png" alt="CategoryDB" height="400"><br><br>
 - **사용자후기DB 설계도**  
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/UserReviewDB.png" alt="UserReviewDB" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/UserReviewDB.png" alt="UserReviewDB" height="400"><br>
+<br>
 
 ## 사이트 설명
 > **메인 화면**<br><br>
@@ -155,7 +159,8 @@
 > **사용자 포인트 교환 페이지**<br><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-1point.png" alt="23-1point" height="400"><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-2point.png" alt="23-2point" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-3point.png" alt="23-3point" height="400"><br><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-3point.png" alt="23-3point" height="400"><br>
+<br>
 
 ## 테스트 결과
 <br>
