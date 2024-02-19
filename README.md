@@ -62,7 +62,7 @@
 
 ## DB 설계도
 1. 전체DB 설계도  
-<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/AllDB.png" alt="user" width="400">
+<img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/AllDB.png" alt="user" width="400">  
 2. 카테고리DB 설계도  
 <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/CategoryDB.png" alt="user" height="250">  
 3. 사용자후기DB 설계도  
