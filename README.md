@@ -69,14 +69,14 @@
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/UserReviewDB.png" alt="UserReviewDB" height="400"><br><br>
 
 ## 사이트 설명
-> **메인 화면**<br>
+> **메인 화면**<br><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-1main.png" alt="1-1main" height="400"><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-2main.png" alt="1-2main" height="400"><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-3main.png" alt="1-3main" height="400"><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-4main.png" alt="1-4main" height="400"><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-5main.png" alt="1-5main" height="400"><br><br>
   
-> **로그인 페이지**<br>
+> **로그인 페이지**<br><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/2-1login.png" alt="2-1login" height="400"><br><br>
   
 **3. 비밀번호 찾기 페이지**
