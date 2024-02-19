@@ -103,9 +103,32 @@
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/12-2hotelList.png" alt="12-2hotelList" height="400">
 13. 숙소 상세보기 페이지
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/13-1hotelDetail.png" alt="13-1hotelDetail" height="400">
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/13-2hotelDetail.png" alt="13-2hotelDetail" height="400">  
-    
-
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/13-2hotelDetail.png" alt="13-2hotelDetail" height="400">
+14. 명소 전체 목록 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/14-1attractionList.png" alt="14-1attractionList" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/14-2attractionList.png" alt="14-2attractionList" height="400">
+15. 명소 상세보기 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/15-1attractionDetail.png" alt="15-1attractionDetail" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/15-2attractionDetail.png" alt="15-2attractionDetail" height="400">
+16. 전시 전체 목록 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/16-1showList.png" alt="16-1showList" height="400"> 17. 카페 전체 목록 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/17-1cafeList.png" alt="17-1cafeList" height="400">
+18. 주차장 전체 목록 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/18-1parkingList.png" alt="18-1parkingList" height="400">
+19. 관광안내소 전체 목록 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/19-1tourguideList.png" alt="19-1tourguideList" height="400">
+20. 사용자 게시글 전체 목록 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/20-1userReviewList.png" alt="20-1userReviewList" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/20-2userReviewList.png" alt="20-2userReviewList" height="400">  
+21. 사용자 게시글 작성 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/21-1userWrite.png" alt="21-1userWrite" height="400">  
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/21-2userWrite.png" alt="21-2userWrite" height="400">  
+23. 사용자 게시글 상세보기 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/22-1userReviewDetail.png" alt="22-1userReviewDetail" height="400">
+24. 사용자 포인트 교환 페이지
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-1point.png" alt="23-1point" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-2point.png" alt="23-2point" height="400">
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-3point.png" alt="23-3point" height="400">  
 
 
 
