@@ -10,7 +10,7 @@
 5. 사이트 설명<br>
 6. 테스트 결과<br>
   
-## 개발환경{#개발환경}
+## 개발환경
 > Back-end
 > <div>
 >    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -51,7 +51,7 @@
 >    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 > </div>
 
-## 역할{#역할}  
+## 역할
   
 ## 개발 일정표 (총 소요기간 19일)
 - 8/7 ~ 8/10  프로젝트 설계, 자료 조사 (4일)
