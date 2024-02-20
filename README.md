@@ -69,104 +69,104 @@ _작성중_
 
 ## DB 설계도  
 - **전체DB 설계도**  
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/AllDB.png" alt="AllDB" width="400"><br><br>  
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/AllDB.png" alt="AllDB" width="700"><br><br>  
 - **카테고리DB 설계도**  
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/CategoryDB.png" alt="CategoryDB" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/CategoryDB.png" alt="CategoryDB" width="700"><br><br>
 - **사용자후기DB 설계도**  
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/UserReviewDB.png" alt="UserReviewDB" height="400"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/UserReviewDB.png" alt="UserReviewDB" width="700"><br>
 <br>
 
 ## 사이트 설명
 > **메인 화면**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-1main.png" alt="1-1main" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-2main.png" alt="1-2main" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-3main.png" alt="1-3main" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-4main.png" alt="1-4main" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-5main.png" alt="1-5main" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-1main.png" alt="1-1main" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-2main.png" alt="1-2main" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-3main.png" alt="1-3main" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-4main.png" alt="1-4main" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/1-5main.png" alt="1-5main" width="800"><br><br>
   
 > **로그인 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/2-1login.png" alt="2-1login" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/2-1login.png" alt="2-1login" width="800"><br><br>
   
 > **비밀번호 찾기 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/3-1password.png" alt="3-1password" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/3-1password.png" alt="3-1password" width="800"><br><br>
   
 > **회원가입 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-1join.png" alt="4-1join" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-2join.png" alt="4-2join" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-1join.png" alt="4-1join" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/4-2join.png" alt="4-2join" width="700"><br><br>
   
 > **마이페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/5-1myPage.png" alt="5-1myPage" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/5-1myPage.png" alt="5-1myPage" width="700"><br><br>
   
 > **사용자가 작성한 게시글 목록 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/6-1myBoardList.png" alt="6-1myBoardList" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/6-1myBoardList.png" alt="6-1myBoardList" width="700"><br><br>
 
 > **사용자가 작성한 게시글 댓글 목록 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/7-1myCommentList.png" alt="7-1myCommentList" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/7-1myCommentList.png" alt="7-1myCommentList" width="700"><br><br>
 
 > **사용자 정보 수정**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/8-1updateInfo.png" alt="8-1updateInfo" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/8-1updateInfo.png" alt="8-1updateInfo" width="800"><br><br>
 
 > **이메일 본인 인증**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/9-1emailVerification.png" alt="9-1emailVerification" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/9-1emailVerification.png" alt="9-1emailVerification" width="800"><br><br>
 
 > **맛집 전체 목록 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/10-1restaurantList.png" alt="10-1restaurantList" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/10-2restaurantList.png" alt="10-2restaurantList" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/10-1restaurantList.png" alt="10-1restaurantList" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/10-2restaurantList.png" alt="10-2restaurantList" width="800"><br><br>
 
 > **맛집 상세보기 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/11-1restaurantDetail.png" alt="11-1restaurantDetail" height="400"><br> 
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/11-2restaurantDetail.png" alt="11-2restaurantDetail" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/11-1restaurantDetail.png" alt="11-1restaurantDetail" width="800"><br> 
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/11-2restaurantDetail.png" alt="11-2restaurantDetail" width="800"><br><br>
 
 > **숙소 전체 목록 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/12-1hotelList.png" alt="12-1hotelList" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/12-2hotelList.png" alt="12-2hotelList" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/12-1hotelList.png" alt="12-1hotelList" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/12-2hotelList.png" alt="12-2hotelList" width="800"><br><br>
   
 > **숙소 상세보기 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/13-1hotelDetail.png" alt="13-1hotelDetail" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/13-2hotelDetail.png" alt="13-2hotelDetail" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/13-1hotelDetail.png" alt="13-1hotelDetail" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/13-2hotelDetail.png" alt="13-2hotelDetail" width="800"><br><br>
   
 > **명소 전체 목록 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/14-1attractionList.png" alt="14-1attractionList" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/14-2attractionList.png" alt="14-2attractionList" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/14-1attractionList.png" alt="14-1attractionList" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/14-2attractionList.png" alt="14-2attractionList" width="800"><br><br>
   
 > **명소 상세보기 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/15-1attractionDetail.png" alt="15-1attractionDetail" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/15-2attractionDetail.png" alt="15-2attractionDetail" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/15-1attractionDetail.png" alt="15-1attractionDetail" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/15-2attractionDetail.png" alt="15-2attractionDetail" width="800"><br><br>
   
 > **전시 전체 목록 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/16-1showList.png" alt="16-1showList" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/16-1showList.png" alt="16-1showList" width="800"><br><br>
   
 > **카페 전체 목록 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/17-1cafeList.png" alt="17-1cafeList" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/17-1cafeList.png" alt="17-1cafeList" width="800"><br><br>
 
 > **주차장 전체 목록 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/18-1parkingList.png" alt="18-1parkingList" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/18-1parkingList.png" alt="18-1parkingList" width="800"><br><br>
   
 > **관광안내소 전체 목록 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/19-1tourguideList.png" alt="19-1tourguideList" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/19-1tourguideList.png" alt="19-1tourguideList" width="800"><br><br>
   
 > **사용자 게시글 전체 목록 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/20-1userReviewList.png" alt="20-1userReviewList" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/20-2userReviewList.png" alt="20-2userReviewList" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/20-1userReviewList.png" alt="20-1userReviewList" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/20-2userReviewList.png" alt="20-2userReviewList" width="800"><br><br>
   
 > **사용자 게시글 작성 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/21-1userWrite.png" alt="21-1userWrite" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/21-2userWrite.png" alt="21-2userWrite" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/21-1userWrite.png" alt="21-1userWrite" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/21-2userWrite.png" alt="21-2userWrite" width="800"><br><br>
   
 > **사용자 게시글 상세보기 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/22-1userReviewDetail.png" alt="22-1userReviewDetail" height="400"><br><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/22-1userReviewDetail.png" alt="22-1userReviewDetail" width="800"><br><br>
   
 > **사용자 포인트 교환 페이지**<br><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-1point.png" alt="23-1point" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-2point.png" alt="23-2point" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-3point.png" alt="23-3point" height="400"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-1point.png" alt="23-1point" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-2point.png" alt="23-2point" width="800"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-3point.png" alt="23-3point" width="800"><br>
 <br>
 
 ## 테스트 결과
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-1testCaseResults.png" alt="24-1testCaseResults" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-2testCaseResults.png" alt="24-2testCaseResults" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-3testCaseResults.png" alt="24-3testCaseResults" height="400"><br>
-  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-4testCaseResults.png" alt="24-4testCaseResults" height="400"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-1testCaseResults.png" alt="24-1testCaseResults" width="768"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-2testCaseResults.png" alt="24-2testCaseResults" width="768"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-3testCaseResults.png" alt="24-3testCaseResults" width="768"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-4testCaseResults.png" alt="24-4testCaseResults" width="768"><br>
 <br>
 
 ## 시연 영상
