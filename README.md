@@ -163,7 +163,10 @@ _작성중_
 <br>
 
 ## 테스트 결과
-_작성중_
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-1testCaseResults.png" alt="24-1testCaseResults" height="400"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-2testCaseResults.png" alt="24-2testCaseResults" height="400"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-3testCaseResults.png" alt="24-3testCaseResults" height="400"><br>
+  <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-4testCaseResults.png" alt="24-4testCaseResults" height="400"><br>
 <br>
 
 ## 시연 영상
