@@ -9,7 +9,7 @@
 [3. 개발 일정표](#개발-일정표-총-소요기간-19일)<br> 
 [4. DB설계도](#db-설계도)<br>
 [5. 사이트 설명](#사이트-설명)<br>
-[6. 테스트 결과](#테스트-결과)<br>
+[6. 테스트 결과](#기능별-테스트-결과)<br>
 [7. 시연 영상](#시연-영상)<br>
 <br>
   
@@ -216,7 +216,7 @@
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/23-3point.png" alt="23-3point" width="800"><br>
 <br>
 
-## 테스트 결과
+## 기능별 테스트 결과
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-1testCaseResults.png" alt="24-1testCaseResults" width="768"><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-2testCaseResults.png" alt="24-2testCaseResults" width="768"><br>
   <img src="https://github.com/jihye046/InvPro/blob/main/src/main/webapp/24-3testCaseResults.png" alt="24-3testCaseResults" width="768"><br>
